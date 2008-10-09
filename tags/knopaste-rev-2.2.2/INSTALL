@@ -1,0 +1,6 @@
+0) Das Impressum in der Datei impressum.txt anpassen. 
+   (Programmierer stehen lassen und Admin ändern)
+1) Die config.php anpassen
+2) Die .htaccess anpassen (Die RewriteBase Anweisung auf 
+   das verwendete Verzeichnis setzen)
+3) Die make.sql per phpMyAdmin in der Datenbank ausführen

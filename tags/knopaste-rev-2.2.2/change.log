@@ -1,0 +1,40 @@
+25.07.2005 - Aktuelle Version 2.2.2 (unstable)
+	* Menü aus einzelnen Dateien entfernt und im Hauptbereich definiert
+
+24.07.2005 - Aktuelle Version 2.2.1 (unstable)
+	* Englische Übersetzung hinzugefügt
+	* Titel der NewPaste Seite auch über sprachdatei definiert
+
+23.07.2005 - Aktuelle Version 2.1.2 (stable)
+	* Projekt unter GPL gestellt
+	* Öffentlich verfügbar gemacht per Subversion
+	* Multilanguagesupport hinzugefügt
+
+30.04.2005 - Aktuelle Version: 2.1.2 (Nicht öffentlich)
+	* Cookie-Lifetime korrigiert
+	* Versionseinstellung aus Template entfernt und in Index
+	  eingefügt
+
+28.03.2005 - Aktuelle Version: 2.1.1 (Nicht öffentlich)
+	* Darstellungsfehler bei der URL nach dem Pasten behoben
+
+27.03.2005 - Aktuelle Version: 2.1 (Nicht öffentlich)
+	* Cookie für das Merken des Namens eingebaut
+
+24.03.2005 - Aktuelle Version: 2.0 (Nicht öffentlich)
+	* Pasteliste eingebaut
+	* Formular für neue Pastes eingebaut
+	* Modularen Aufbau eingefügt
+	* Module list und new auf xHtml 1.1 korrigiert
+	* Neue Pastes in Datenbank einfügen eingebaut
+	* Hilightfunktion eingebaut
+	* Problem mit Sonderzeichen in den Pastes behoben
+	* Download der Pastes als Textdatei eingebaut
+	* Rewrite Rules eingebaut
+	* Installationsanweisung geschrieben
+	
+22.03.2005 - Aktuelle Version: 2.0 (Nicht öffentlich)
+	* Impressum eingebaut
+	* Templateverarbeitung geschrieben
+	* Design "Knut" erstellt
+	* Start des Changelog für Version 2.x
